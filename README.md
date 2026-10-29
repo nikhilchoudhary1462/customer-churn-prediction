@@ -12,10 +12,11 @@ This project implements an end-to-end Machine Learning pipeline to predict custo
 ```
 customer_churn_prediction/
 │
-├── customer-churn-rate.ipynb         # Executed Jupyter Notebook with EDA, SMOTE, models, and PR curves
-├── churn_pipeline.py                 # Standalone modular Python script for automated execution
-├── requirements.txt                  # Python dependencies
-└── README.md                         # Detailed project documentation and interview talking points
+├── Customer_Churn_Interview_Master_Guide.pdf  # 4-page comprehensive technical interview Q&A guide
+├── customer-churn-rate.ipynb                 # Executed Jupyter Notebook with EDA, SMOTE, models, and PR curves
+├── churn_pipeline.py                         # Standalone modular Python script for automated execution
+├── requirements.txt                          # Python dependencies
+└── README.md                                 # Detailed project documentation and interview talking points
 ```
 
 ---
